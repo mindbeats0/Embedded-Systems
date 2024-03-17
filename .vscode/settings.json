@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "dio.h": "c",
+        "application.h": "c",
+        "registers.h": "c",
+        "button.h": "c",
+        "timer.h": "c",
+        "interrupts.h": "c",
+        "types.h": "c",
+        "test.h": "c"
+    }
+}
