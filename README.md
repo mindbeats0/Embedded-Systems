@@ -1,8 +1,8 @@
 # Embedded-Systems Udacity Course
 
-Programming ATmega32 using C
+**Programming ATmega32 using C**
 
-**Strictly Following Design Princples like:**
+_Strictly Following Design Princples like:_
 * Strict component orientation
 * Use modular design
 * Separation concerns
